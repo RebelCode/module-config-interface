@@ -6,6 +6,8 @@ use Xpmock\TestCase;
 
 /**
  * Tests {@see \RebelCode\Modular\ConfigInterface}.
+ *
+ * @since [*next-version*]
  */
 class ConfigInterfaceTest extends TestCase
 {
