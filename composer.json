@@ -2,7 +2,7 @@
     "name": "rebelcode/module-config-interface",
     "description": "Interfaces for module configuration",
     "type": "library",
-    "license": "MIT",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "RebelCode",
