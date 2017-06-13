@@ -1,6 +1,6 @@
 <?php
 
-namespace RebelCode\Modular;
+namespace RebelCode\Modular\Config;
 
 /**
  * Defines basic characteristics of a module config.

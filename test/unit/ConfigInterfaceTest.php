@@ -1,6 +1,6 @@
 <?php
 
-namespace RebelCode\Modular\UnitTest;
+namespace RebelCode\Modular\Config\UnitTest;
 
 use Xpmock\TestCase;
 
@@ -16,7 +16,7 @@ class ConfigInterfaceTest extends TestCase
      *
      * @since [*next-version*]
      */
-    const TEST_SUBJECT_CLASSNAME = 'RebelCode\\Modular\\ConfigInterface';
+    const TEST_SUBJECT_CLASSNAME = 'RebelCode\\Modular\\Config\\ConfigInterface';
 
     /**
      * Creates a new instance of the test subject.
