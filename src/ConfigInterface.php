@@ -18,7 +18,7 @@ interface ConfigInterface
      *
      * @since [*next-version*]
      */
-    const K_CODE = 'name';
+    const K_KEY = 'name';
 
     /**
      * The module dependencies.
