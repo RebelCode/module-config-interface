@@ -21,6 +21,13 @@ interface ConfigInterface
     const K_CODE = 'name';
 
     /**
+     * The module dependencies.
+     *
+     * @since [*next-version*]
+     */
+    const K_DEPENDENCIES = 'dependencies';
+
+    /**
      * What should happen when the module loads.
      *
      * @since [*next-version*]
