@@ -3,9 +3,10 @@
 namespace RebelCode\Modular\Config\UnitTest;
 
 use Xpmock\TestCase;
+use RebelCode\Modular\Config\ConfigInterface;
 
 /**
- * Tests {@see \RebelCode\Modular\ConfigInterface}.
+ * Tests {@see \RebelCode\Modular\Config\ConfigInterface}.
  *
  * @since [*next-version*]
  */
@@ -23,7 +24,7 @@ class ConfigInterfaceTest extends TestCase
      *
      * @since [*next-version*]
      *
-     * @return ModuleInterface
+     * @return ConfigInterface
      */
     public function createInstance()
     {
